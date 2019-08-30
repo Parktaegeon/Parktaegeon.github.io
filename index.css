@@ -1,0 +1,9 @@
+.head {
+    background-color: black;
+    color: white;
+    justify-content: center;
+}
+.body {
+    background-color: blue;
+    color: white;
+}
